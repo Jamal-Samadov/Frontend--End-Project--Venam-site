@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#my{
+    background-color: #e2e2e2;
+}
+.my-top .contact-text h1{
+    margin-left: -31px !important;
+}
+.my-top .contact-text p{
+    background-color: white;
+    padding: 8px 0px;
+    border-radius: 50px;
+    margin: 20px 413px !important;
+    color: #fe6101;
+    width: 18% !important;
+    font-size: 13px !important;
+}
+.my-top .contact-text i{
+    font-size: 7px !important;
+}
+#login{
+    padding: 7rem 0rem;
+}
+.my-bottom-left form input{
+    outline: none;
+    border: 1px solid #e2e2e2;
+    width: 83%;
+    height: 48px;
+    border-radius: 5px;
+    padding: 27px;
+}
+.my-bottom-left form label{
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 13px;
+}
+.my-bottom-left-name h1{
+    margin-bottom: 27px;
+}
+.my-bottom-left{
+    border: 1px solid #e2e2e2;
+    position: relative;
+}
+.my-bottom-left form{
+    margin-left: 13px;
+    margin-bottom: 20px;
+}
+.my-bottom-left #passw{
+    margin-left: 13px;
+}
+.login label{
+    margin-top: 18px;
+}
+.my-bottom-left form i{
+    color: #FF0000;
+    font-size: 7px;
+    position: absolute;
+}
+.my-bottom-left #eye{
+    position: absolute;
+    bottom: 186px;
+    right: 97px;
+}
+.my-bottom-left .btn{
+    background-color: #ff6100;
+    transition: .5s;
+    border: none;
+    font-weight: 600;
+    margin-left: 23px;
+    margin-right: 14px;
+    margin-bottom: 19px;
+    padding: 11px 24px;
+}
+.my-bottom-left .btn:hover{
+    background-color: #252525;
+}
+.lost a{
+    margin: 17px;
+}
+.lost{
+    margin-bottom: 18px;
+    margin-top: 17px;
+}
+
+.my-bottom-right-text p{
+    text-align-last: auto;
+    color: #7D7D7D;
+}
+.my-bottom-right-text p a{
+    text-decoration: none;
+}
+.my-bottom-chec{
+    padding-bottom: 25px;
+}

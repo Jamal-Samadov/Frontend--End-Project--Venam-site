@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#our{
+    padding: 10rem 0rem;
+}
+
+.our-box{
+    background: #fff;
+    border: 1px solid #e1e1e1;
+    box-shadow: 0 1px 16px 0 rgb(117 114 114 / 7%);
+    padding: 40px;
+    transition: .4s linear;
+}
+.our-icon{
+    width: 72px;
+    height: 72px;
+    text-align: center;
+    line-height: 72px;
+    margin: 0 auto 20px;
+    font-size: 34px;
+    background: var(--theme-primary);
+    border-radius: 50%;
+    color: #fff;
+    background-color: #ff6100;
+    position: relative;
+}
+.our-text h1{
+    font-size: 20px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.our-text p{
+    margin-bottom: 0;
+    line-height: 26px;
+    color: grey;
+    width: 134%;
+    margin-left: -38px;
+}
+#talk{
+    padding-right: 7rem;
+}
+.talk-top p{
+    padding: 0rem;
+    font-size: 13px;
+    font-weight: 600;
+}
+.talk-top h1{
+    text-align: center;
+    margin-bottom: 6rem;
+}
+.forum input{
+    position: relative;
+}
+.form-icon{
+    position: absolute;
+}
+.form-icon .user{
+    bottom: 121px;
+    left: 13rem;
+    position: absolute;
+    color: grey;
+}
+.form-icon .user2{
+    bottom: 121px;
+    left: 31rem;
+    position: absolute;
+    color: grey;
+}
+.form-icon .letter{
+    bottom: 42px;
+    left: 13rem;
+    position: absolute;
+    color: grey;
+}
+.form-icon .phone{
+    bottom: 44px;
+    left: 31rem;
+    position: absolute;
+    color: grey;
+}
+.forum input{
+    margin-right: 51px;
+    width: 39%;
+    margin-bottom: 30px;
+    padding: 13px 22px 8px 22px;
+    border: 1px solid #e1e1e1;
+    outline: none;
+}
+:-ms-input-placeholder{
+    color: #b3b3b3;
+}
+#subject{
+    outline: none;
+    height: 180px;
+    width: 87%;
+    padding: 17px;
+    border: 1px solid #e1e1e1;
+}
+.talk-bottom .btn{
+    margin-bottom: 7rem;
+    margin-top: 2rem;
+    width: 23%;
+    height: 50px;
+    background-color: #ff6100;
+    border:none;
+}
+
+#shop{
+    background-color: #F2F2F2;
+}
+
+.contact-text p{
+    background-color: white;
+    padding: 11px 0px;
+    border-radius: 50px;
+    margin: 20px 351px !important;
+    color: #fe6101;
+    width: 34% !important;
+}
